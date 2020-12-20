@@ -69,8 +69,8 @@
       "type": "adam",
       "lr": 0.001
     },
-    "num_epochs": 40,
-    "patience": 40,
+    "num_epochs": 10,
+    "patience": 10,
     "cuda_device": 0
   }
 }
